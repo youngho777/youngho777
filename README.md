@@ -1,24 +1,24 @@
-# ⚡ 유영호 (Yoo Youngho)
+# Yoo Youngho
 
-🔥 상남자식 개발자 — 말보다 코드로 증명한다  
-💻 "버그는 내 앞에서 숨을 못 쉰다."
-
----
-
-## 🚀 Skills
-- 🐍 **Python** — 문제를 뿌리째 뽑는다  
-- ⚙️ **C++** — 성능은 곧 힘이다  
-- 🌐 **JavaScript** — 웹을 지배한다  
-- ☁️ **Cloud** — 확장성은 기본이다  
+👨‍💻 Developer  
+✨ Clean code, clear mind
 
 ---
 
-## 🎇 Philosophy
-> "코드는 무기다.  
-> 나는 그것으로 세상을 해킹한다."
+## Skills
+- Python  
+- C++  
+- JavaScript  
+- Cloud & DevOps  
 
 ---
 
-## 🔥 Signature
+## Philosophy
+> "코드는 단순할수록 강하다.  
+> 깔끔함이 곧 힘이다."
+
+---
+
+## Signature
 ```bash
-echo "상남자식으로 코딩한다."
+echo "Keep it clean, keep it strong."
