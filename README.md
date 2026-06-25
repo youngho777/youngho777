@@ -1,7 +1,6 @@
 # Yoo Youngho
 
-👋 Welcome to my GitHub!  
-✨ Clean code, clear mind
+반갑습니다.
 
 ---
 
