@@ -1,4 +1,4 @@
-# 유영호입니다!
+# 유영호입니다.
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Coding+is+my+passion;Let's+build+something+cool!" alt="Typing SVG" />
