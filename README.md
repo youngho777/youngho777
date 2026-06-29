@@ -1,29 +1,35 @@
-# 안녕하세요 유영호입니다.
----
+# 👋 안녕하세요, 유영호입니다!
 
-##  관심 분야
-- 웹 개발
-- 데이터 분석
-- 깔끔한 코드와 협업
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Coding+is+my+passion;Let's+build+something+cool!" alt="Typing SVG" />
+</p>
 
----
+🌱 **About Me**
+- 개발 공부 중인 학생
+- 새로운 기술 배우는 걸 좋아합니다
+- 심플하고 깔끔한 코드 스타일을 추구합니다
 
-## 자격증,수상
-디자인싱킹문제해결 우수상
+🎨 **Skills**
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white"/>
+</p>
 
----
-
-##  현재 배우고 있는 것
-- Git & GitHub 활용
-- Python / JavaScript / HTML 기초
-  
-
----
-
-##  연락처
-- Email: yooyh6154@naver.com
-- 전화번호: 010-5502-6154
+💡 **Contact**
+- 📧 Email: yourname@example.com  
+- 🌐 Blog: [내 블로그](https://example.com)
 
 ---
 
- **꾸준히 성장하는 개발자**가 되겠습니다!
+## 📊 방문자 카운터
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourgithubid&style=for-the-badge&color=brightgreen" alt="Profile views"/>
+</p>
+
+---
+
+## ⚡ GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourgithubid&show_icons=true&theme=radical" alt="GitHub stats"/>
+</p>
