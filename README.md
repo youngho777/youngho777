@@ -17,8 +17,8 @@
 </p>
 
 💡 **Contact**
-- 📧 Email: yourname@example.com  
-- 🌐 Blog: [내 블로그](https://example.com)
+- 📧 Email: yooyh6154@naver.com
+- 🌐 phone number: 010-5502-6154
 
 ---
 
