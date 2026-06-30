@@ -1,35 +1,50 @@
-# 유영호입니다.
+<!DOCTYPE html>
+<html>
+<head>
+    <title>유영호의 홈페이지입니다.</title>
+    <meta charset="UTF-8">
+</head>
+<body>
+    <h1>자기소개서</h1>
+    <ul>
+        <li>이름: 유영호</li>
+        <li>나이: 23</li>
+        <li>학력: 대전보건대학교 AI소프트웨어학과 졸업</li>
+    </ul>
+    <hr>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Coding+is+my+passion;Let's+build+something+cool!" alt="Typing SVG" />
-</p>
+    <h3>자격증, 수상경력</h3>
+    <ul>
+        <li>디자인싱킹 문제해결 우수상</li>
+    </ul>
+    <hr>
 
-🌱 **About Me**
-- 개발 공부하는 학생입니다.
-- 심플하고 깔끔한 코드 스타일을 추구합니다
-  
+    <h3>이메일</h3>
+    <ul>
+        <li>yooyh6154@naver.com</li>
+    </ul>
+    <hr>
 
-🎨 **Skills**
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white"/>
-</p>
+    <h3>전화번호</h3>
+    <ul>
+        <li>010-5502-6154</li>
+    </ul>
+    <hr>
 
-💡 **Contact**
-- 📧 Email: yooyh6154@naver.com
-- 🌐 phone number: 010-5502-6154
+    <h3>배우고 있는 것</h3>
+    <ul>
+        <li>CSS</li>
+        <li>Java</li>
+        <li>HTML</li>
+    </ul>
+    <hr>
 
----
-
-## 📊 방문자 카운터
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourgithubid&style=for-the-badge&color=brightgreen" alt="Profile views"/>
-</p>
-
----
-
-## ⚡ GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourgithubid&show_icons=true&theme=radical" alt="GitHub stats"/>
-</p>
+    <h3>방향성</h3>
+    <ul>
+        <li>직무 전문성 강화</li>
+        <li>지속적인 학습</li>
+        <li>팀워크와 리더십</li>
+    </ul>
+    <hr>
+</body>
+</html>
