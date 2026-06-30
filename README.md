@@ -1,26 +1,32 @@
-# 유영호 
+# 👋 안녕하세요, 유영호입니다!
 
-안녕하세요!  
-저는 **AI 소프트웨어 개발자**를 꿈꾸는 유영호입니다.  
-
-##  소개
+## 👤 프로필
+- 이름: 유영호  
 - 나이: 23  
 - 학력: 대전보건대학교 AI소프트웨어학과 졸업  
-- 관심분야: CSS, Java, HTML  
 
-##  자격증 & 수상
-- 디자인싱킹 문제해결 우수상  
-
-##  연락처
-- 이메일: yooyh6154@naver.com  
-- 전화번호: 010-5502-6154  
-
-##  배우고 있는 것
-- CSS  
+## 📚 기술 스택
+- HTML / CSS  
 - Java  
-- HTML  
+- Git & GitHub  
 
-##  방향성
-- 직무 전문성 강화  
-- 지속적인 학습  
-- 팀워크와 리더십  
+## 💻 프로젝트
+- 개인 블로그 제작 (HTML/CSS)  
+- 간단한 Java 콘솔 프로그램  
+- 팀 프로젝트: 웹 페이지 UI 설계  
+
+## 🏆 수상경력
+- 디자인씽킹 문제해결 우수상  
+
+## 📧 연락처
+- 이메일: yooyh6154@naver.com  
+- 전화번호: [010-5502-6154](tel:01055026154)  
+- GitHub: [github.com/username](https://github.com/username)  
+
+---
+
+### 🌟 깃허브 통계
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=radical)
+
+### 📈 사용 언어
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&theme=radical)
