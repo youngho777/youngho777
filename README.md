@@ -5,7 +5,7 @@
 - 나이: 23  
 - 학력: 대전보건대학교 AI소프트웨어학과 졸업  
 
-## 🛠 기술 스택
+## 기술 스택
 - HTML / CSS  
 - Java  
 - Git & GitHub  
@@ -13,7 +13,7 @@
 ##  수상 경력
 - 디자인씽킹 문제해결 우수상    
 
-## 🌐 연락처
+##  연락처
 - 이메일: yooyh6154@naver.com  
 - 전화번호: [010-5502-6154](tel:01055026154)  
 - GitHub: [github.com/username](https://github.com/username)  
