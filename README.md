@@ -16,5 +16,3 @@
 ##  연락처
 - 이메일: yooyh6154@naver.com  
 - 전화번호: [010-5502-6154](tel:01055026154)  
-- GitHub: [github.com/username](https://github.com/username)  
-- LinkedIn: [linkedin.com/in/username](https://linkedin.com/in/username)
